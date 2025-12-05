@@ -1,6 +1,6 @@
 #Netflix Content Over load analysis
 **Final Project — Data Analysis Using Python**
-
+# DISCLIAMER HTML WAS NOT WORKING
 # Project Goal  
 Analyze the Netflix global catalog to determine whether users experience **content overload** and identify key trends such as:  
 - Movies vs TV Shows distribution  
@@ -28,5 +28,6 @@ The full analysis (with all graphs and answers) is visible in **analysis.ipynb**
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
 
 
