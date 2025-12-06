@@ -8,13 +8,11 @@ Analyze the Netflix global catalog to determine whether users experience **conte
 - Countries producing the most content  
 - Catalog growth over time  
 - Most common genres for U.S. viewers  
-
 #  Files Included  
 - **analysis.ipynb**  Full Jupyter Notebook with graphs, insights, and conclusions  
 - **netflix_titles.csv**  Dataset from Kaggle used for the analysis  
 - **requirements.txt** Python packages needed to run the notebook  
 - **slides**  PowerPoint presentation summarizing the analysis if provided
-
   Summary of Key Findings  
 - Netflix has more movies than TV shows , which increases browsing difficulty.  
 - Most Netflix content comes from a few dominant countries such as the United States and India.  
@@ -28,6 +26,7 @@ The full analysis with all graphs and answers is visible in analysis.ipynb and r
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
 
 
 
